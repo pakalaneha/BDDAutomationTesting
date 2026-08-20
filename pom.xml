@@ -5,7 +5,6 @@
 	<groupId>com.BDDAutomationTesting</groupId>
 	<artifactId>BDDAutomationTesting</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Ailuri Reshma Reddy</name>
 	<description> Behavior-Driven Development using gherkin</description>
 	<dependencies>
 
